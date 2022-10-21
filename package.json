@@ -1,0 +1,17 @@
+
+{
+"name": "abu999",
+"theme": "abu999",
+"version": "3.1.8",
+"description": "abu999 สมัครสมาชิกเว็บพนันเว็บตรง ระบบออโต้ รับเครดิตฟรี",
+"keywords": [
+"abu999",
+"abu999 เครดิตฟรี",
+"abu999 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/abu999",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
